@@ -1,4 +1,4 @@
-![alt text](file:///C:/Users/scott/Downloads/Fiverr%20Basic%20Kit/Fiverr%20Basic%20Kit/Colored%20Logo%20Files/Original%20Logo%20Symbol.png)
+![alt text](https://github.com/S1nDev/PhraseUp/blob/main/Original%20Logo.png)
 # PhraseUp
 PhraseUP uses CNN and Sentimental Analysis to communicate your thoughts and writing into more comprehendible/digestible material that suits a particular audience. 
 
